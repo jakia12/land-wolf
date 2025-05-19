@@ -537,6 +537,9 @@ footer {
   }
 }
 @media (max-width: 1024px) {
+  .ca-span {
+    font-size: 17px !important
+  }
   nav ul li {
     font-size: 16px;
   }
@@ -831,10 +834,13 @@ footer {
   .wrapper {
     padding-top: 42px;
   }
+  .ca-span {
+    font-size: 9px;
+  }
 }
 
-.ca-box {
-  background-color: white;
-  padding: 20px 50px;
-  border-radius: 10px;
+@media screen and (max-width: 424px) {
+  .ca-span {
+    font-size: 9px;
+  }
 }
