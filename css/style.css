@@ -847,18 +847,15 @@ footer {
     padding-top: 42px;
   }
   .abt-text {
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 16px;
+    line-height: 35px;
   }
   .ca-span {
     font-size: 9px;
   }
-}
 
-.abt-text {
-  font-size: 25px;
-  line-height: 48px;
-}
+
+
 
 .ca-span {
   font-size: 17px;
