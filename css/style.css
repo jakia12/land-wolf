@@ -318,7 +318,7 @@ ol li {
 }
 .tokenomics-left {
   padding-top: 150px;
-  padding-left: 100px;
+  /* padding-left: 100px; */
 }
 .tokenomics-left img {
   width: 40vw;
