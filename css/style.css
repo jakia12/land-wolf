@@ -760,7 +760,7 @@ footer {
   text-shadow: -3px -3px 0 black, 3px -3px 0 black, -3px 3px 0 black,
     3px 3px 0 black; /* Black outline */
   font-weight: bold;
-  font-size: 8rem; /* Adjust size as needed */
+  font-size: 6.5rem; /* Adjust size as needed */
 }
 
 .outline-text2 {
