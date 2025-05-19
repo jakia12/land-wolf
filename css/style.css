@@ -163,7 +163,7 @@ nav ul li:last-child a {
 
 .about-container {
   display: flex;
-  height: 100vh;
+  height: 110vh;
   align-items: center;
   justify-content: space-between;
   gap: 100px;
@@ -829,4 +829,10 @@ footer {
   .wrapper {
     padding-top: 42px;
   }
+}
+
+.ca-box{
+  background-color: white;
+  padding: 20px 50px;
+  border-radius: 10px;
 }
